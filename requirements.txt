@@ -1,0 +1,14 @@
+# --- WIRED FRAMEWORK CORE DEPENDENCIES ---
+
+# Manipulação de pacotes em baixo nível (SYN, Xmas, RAW Sockets)
+# Nota: Requer privilégios de root/sudo para execução
+scapy==2.5.0
+
+# Geração de relatórios técnicos em PDF
+fpdf2==2.7.8
+
+# Tratamento de cores ANSI no terminal (Compatibilidade Windows/Linux)
+colorama==0.4.6
+
+# --- SISTEMA ---
+# Python 3.9+ recomendado

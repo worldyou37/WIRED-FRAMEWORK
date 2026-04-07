@@ -1,0 +1,15 @@
+{
+    "scanner": {
+        "ports": "1-65535",
+        "aggression": 3
+    },
+    "lookup": {
+        "subdomains": true
+    },
+    "surveyor": {
+        "active": true
+    },
+    "ghost": {
+        "active": true
+    }
+}
